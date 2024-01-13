@@ -1,4 +1,4 @@
-# 基于SSM的学生信息管理系统
+# 基于SSM的学生信息管理系统8
 
 ## 1、项目介绍
 
@@ -9,8 +9,6 @@
 - 教师：成绩管理、学生查询、图形化信息概览
 
 - 学生：选课管理、成绩查询、图形化信息概览
-
-
 
 ## 2、项目技术
 
@@ -32,47 +30,44 @@
 
 ### 4.1 登录
 
-![image-20220512122644305](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122647.png)
+![image-20220512122644305](https://www.codeshop.fun/Typora-Images/20220512122647.png)
 
 系统三种用户均可通过此界面登录至系统，前端自动校验验证码和用户类型
 
 ### 4.2 学生模块
 
-![学生-选课管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122748.jpg)
+![学生-选课管理](https://www.codeshop.fun/Typora-Images/20220512122748.jpg)
 
-![学生-成绩查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122753.jpg)
+![学生-成绩查询](https://www.codeshop.fun/Typora-Images/20220512122753.jpg)
 
 学生可以选择课程和查询自己的成绩
 
 ### 4.3 教师模块
 
-![教师-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122818.jpg)
+![教师-首页](https://www.codeshop.fun/Typora-Images/20220512122818.jpg)
 
-![教师-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122822.jpg)
+![教师-成绩管理](https://www.codeshop.fun/Typora-Images/20220512122822.jpg)
 
-![教师-学生查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122848.jpg)
+![教师-学生查询](https://www.codeshop.fun/Typora-Images/20220512122848.jpg)
 
 教师可以登记班级学生的成绩，还可以通过专业、班级多条件筛选查询学生信息
 
 ### 4.4 管理员模块
 
-![管理员-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122948.jpg)
+![管理员-首页](https://www.codeshop.fun/Typora-Images/20220512122948.jpg)
 
-![管理员-专业管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122837.jpg)
+![管理员-专业管理](https://www.codeshop.fun/Typora-Images/20220512122837.jpg)
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122931.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/20220512122931.jpg)
 
-![管理员-课程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122940.jpg)
+![管理员-课程管理](https://www.codeshop.fun/Typora-Images/20220512122940.jpg)
 
-![管理员-班级管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512122943.jpg)
+![管理员-班级管理](https://www.codeshop.fun/Typora-Images/20220512122943.jpg)
 
 管理员可以对学生、专业、班级、老师、课程、用户等模块进行增删改查，其中查询为多条件模糊查询。此外管理员、教师也可以在系统首页查看系统概览、班级学生数量折线图、课程平均成绩柱状图等图形化信息
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复 “ 学生8” 
+下方扫一扫关注后，后台回复关键词：**学生**，查看导入教程视频、sql脚本和源码等
 
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
-
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
